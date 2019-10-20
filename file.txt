@@ -1,1 +1,2 @@
 Linija za konflikt na drugoj grani
+Linija za konflikt na masteru
